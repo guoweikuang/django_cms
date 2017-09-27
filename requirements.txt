@@ -1,0 +1,10 @@
+Django==1.9
+django-haystack==2.6.1
+django-sql-explorer==1.1.1
+jieba==0.39
+Markdown==2.6.9
+pkg-resources==0.0.0
+six==1.11.0
+sqlparse==0.2.3
+unicodecsv==0.14.1
+Whoosh==2.7.4
