@@ -1,0 +1,6 @@
+*.pyc
+.idea
+venv/
+*.swp
+virtualenv/
+db.sqlite3
